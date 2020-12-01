@@ -1,5 +1,4 @@
-# APEX_MEETUP_KASSEL_11_2020
-APEX Meetup Kassel  24. November 2020
+# APEX Meetup Kassel  24. November 2020
 
 Online Event über das JRI - Jasper Reports Integration ; die neuen Feature in Oracle APEX 20.2 und Messdatenerfassung in der Oracle APEX Cloud.
 
