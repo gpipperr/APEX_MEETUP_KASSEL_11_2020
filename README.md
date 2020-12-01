@@ -2,11 +2,8 @@
 
 Online Event über das JRI - Jasper Reports Integration ; die neuen Feature in Oracle APEX 20.2 und Messdatenerfassung in der Oracle APEX Cloud.
 
-Leider müssen wir den Event ja online durchführen, der Link zur Veranstaltung wird in Kürze mit in die Agenda aufgenommen.
 
-Wir freuen uns auf Eure Teilnahme.
-
-Agenda:
+## Agenda:
 
 --------
 
